@@ -18,7 +18,6 @@ public class Product {
   private double productPrice;
 
   public Product() {
-
   }
 
   public Product(String productName, String productDescription, String image, double productPrice) {
@@ -68,4 +67,3 @@ public class Product {
     this.productPrice = productPrice;
   }
 }
-
